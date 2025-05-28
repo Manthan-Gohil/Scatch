@@ -29,4 +29,20 @@ A simple and functional Bag Shopping web application built using **Node.js**, **
 ```bash
 git clone https://github.com/your-username/bag-shopping-app.git
 cd bag-shopping-app
+```
+2. **Install dependencies**:
+   ```bash
+   npm install
+   ```
+3. **Run the Server**:
+   ```bash
+   node run dev
+   ```
+## ✨ Contributors
+
+- **Manthan Gohil** – [GitHub Profile](https://github.com/Manthan-Gohil)
+
+---
+   
+   
 
